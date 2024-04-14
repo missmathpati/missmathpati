@@ -19,7 +19,8 @@ _MedsXplore is an innovative web interface where users can access medicinal know
 - 🎖 Served as the Chairperson of RAIT ACM Women Chapter.
 - 📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in 14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus.
 - ✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.🎓📊
-- 👨‍⚖️ Participated in Smart India Hackathon with my project LawGPT. 
+- 👨‍⚖️ Participated in Smart India Hackathon with my project LawGPT.
+- 🎤 Recognized as one of the top 1000 speakers in India in Super Speaker Season 2.🏆 
 
 <!--
 **missmathpati/missmathpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,6 +44,7 @@ _MedsXplore is an innovative web interface where users can access medicinal know
 📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in 14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus.
 ✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.🎓📊
  
+Languages worked with 
 
 
 
