@@ -1,5 +1,6 @@
 ### Hello! 👋
-![Banner](https://example.com/your-banner-image.png)
+![Banner](https://github.com/missmathpati/missmathpati/blob/main/Images/Github%20Readme.png?raw=true)
+<br>
 I am a Data Analytics enthussiast who's passioante about learning ways to gather insights from data in order to make informed decision. 
 
 ## Ongoing Endeavors:
