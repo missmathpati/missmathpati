@@ -1,5 +1,5 @@
 ### Hello! 👋
-
+![Banner](https://example.com/your-banner-image.png)
 I am a Data Analytics enthussiast who's passioante about learning ways to gather insights from data in order to make informed decision. 
 
 ## Ongoing Endeavors:
