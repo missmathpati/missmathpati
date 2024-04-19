@@ -23,7 +23,7 @@ I am a Data Analytics enthussiast who's passioante about learning ways to gather
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/chatgpt/chatgpt.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/75c33253e80d1e3b1b7f48a19198449e686c7073/topics/notion/notion.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/topics/notion/notion.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/figma/figma.png"></code>
 
 ## Major Projects I've Worked On:
