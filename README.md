@@ -42,7 +42,13 @@ _MedsXplore is an innovative web interface where users can access medicinal know
 <img align="left" alt="Deno" width="26px" src="https://github.com/github/explore/blob/main/topics/chatgpt/chatgpt.png" />
 <img align="left" alt="Deno" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
 
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/chatgpt/chatgpt.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"></code>
 
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
