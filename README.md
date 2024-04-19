@@ -1,7 +1,7 @@
 ### Hello! 👋
 ![Banner](https://github.com/missmathpati/missmathpati/blob/main/Images/Github%20Readme.png?raw=true)
 <br>
-I am a Data Analytics enthussiast who's passioante about learning ways to gather insights from data in order to make informed decision. 
+I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Analytics enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
 ## Ongoing Endeavors:
 - ⚡ Capstone project in Machine Learning.
