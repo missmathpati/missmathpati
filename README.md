@@ -4,7 +4,6 @@
 ### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Analytics enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
 ### Ongoing Endeavors:
-- ⚡ Capstone project in Machine Learning.
 - 🌱 Currently learning R language.
 - 🔭 Working on Data Insights Lab - an innovative project for data enthusiasts like me. 🚀💡
 
