@@ -29,6 +29,8 @@
 - 📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in [14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus](https://ieeexplore.ieee.org/document/10463218).
 - ✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.
 _MedsXplore is an innovative web interface where users can access medicinal knowledge such as side effects, dosage, manufacturing information, and much more at their fingertips with just 2 easy steps; SCAN & UPLOAD. Provided with Multilingual support and audio feature to cater to a larger audience._ 🌐🔍
+- 📊 Data Insights Lab
+  _Cutting-edge web application that revolutionizes data analysis by providing a user-friendly platform for gaining valuable insights from datasets. Users can effortlessly upload datasets and perform machine learning tasks such as data pre-processing, classification, regression, and clustering without extensive coding skills._ 📉
 - 👩‍⚖️ LawGPT
   _A comprehensive chat platform and app designed to provide users with instant access to information regarding Indian laws and regulations. Our AI-driven system ensures that users receive simplified explanations in plain language, making legal concepts easily understandable. With multilingual support and a simple interface, users can access legal information via text or voice assistance. Join us on GitHub to contribute to building a more informed society._
 
