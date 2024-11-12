@@ -1,13 +1,14 @@
 ### 
 ![Banner](https://github.com/missmathpati/missmathpati/blob/main/Images/Github%20Image.png?raw=true)
 <br>
-### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Analytics enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
+### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Science enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
 ### Ongoing Endeavors:
-- 💡 Masters in Applied Data Science at Univeristy of Chicago. 
+- 💡 MS in Applied Data Science at Univeristy of Chicago.
+- 🔭 Machine Learning ENgineer III at IT service @UChicago 
 - 🌱 Currently learning R language.
 - 🚀 Learning Big Data and Cloud Computing
-- 🔭  
+-  
 
 ### Languages and Tools: 
 
