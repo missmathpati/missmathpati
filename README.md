@@ -46,7 +46,14 @@ _MedsXplore is an innovative web interface where users can access medicinal know
 - 🎤 Recognized as one of the top 1000 speakers in India in Super Speaker Season 2.🏆
 
 
+### 📫 Let's Connect!
+I'm always excited to collaborate on innovative projects and connect with like-minded individuals. Feel free to reach out to me through any of the channels below:
 
+<p>
+    LinkedIn: <a href="https://www.linkedin.com/in/akanksha-a-mathpati/" target="_blank">Connect with me</a><br>
+    Email: <a href="mailto:akankshamathpati@uchicago.edu">akankshamathpati@uchicago.edu</a><br>
+    Portfolio: <a href="https://missmathpati.github.io/" target="_blank">https://missmathpati.github.io/</a>
+</p>
 
 
 <!--
