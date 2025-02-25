@@ -4,7 +4,7 @@
 ### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Science enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
 ### Ongoing Endeavors:
-- 🔭 AI/ML ENgineer at ITS Analytics & Bus Intel Srvc in Univeristy of Chicago.
+- 🔭 AI/ML Engineer at ITS Analytics & Bus Intel Srvc @Univeristy of Chicago.
 - 💡 MS in Applied Data Science at Univeristy of Chicago.
 - 🚀 Learning Big Data and Cloud Computing
 -  
@@ -28,6 +28,7 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/figma/figma.png"></code>
 
 ### Major Projects I've Worked On:
+- 💻 stackoverflow: Conducted NLP analysis of StackOverflow posts using PySpark NLP and Spark ML to derive insights into user interactions and post trends. Utilized big data processing techniques to efficiently handle 30 GB of data, achieving over 95% accuracy on 50 logistic regression models for NLP analysis of StackOverflow posts.
 - 📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in [14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus](https://ieeexplore.ieee.org/document/10463218).
 - ✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.
 _MedsXplore is an innovative web interface where users can access medicinal knowledge such as side effects, dosage, manufacturing information, and much more at their fingertips with just 2 easy steps; SCAN & UPLOAD. Provided with Multilingual support and audio feature to cater to a larger audience._ 🌐🔍
