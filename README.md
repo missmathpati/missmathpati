@@ -5,9 +5,7 @@
 
 ### Ongoing Endeavors:
 - 🔭 AI/ML Engineer at ITS Analytics & Bus Intel Srvc @Univeristy of Chicago.
-- 💡 MS in Applied Data Science at Univeristy of Chicago.
-- 🚀 Learning Big Data and Cloud Computing
--  
+- 💡 MS in Applied Data Science at Univeristy of Chicago.  
 
 ### Languages and Tools: 
 
