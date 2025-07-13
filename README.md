@@ -4,8 +4,9 @@
 ### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Science enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
 ### Ongoing Endeavors:
-- 🔭 AI/ML Engineer at ITS Analytics & Bus Intel Srvc @Univeristy of Chicago.
-- 💡 MS in Applied Data Science at Univeristy of Chicago.  
+- 💡 Machine Learning Engineer at Blue AI Labs. 
+- 🔭 AI/ML Engineer at FA ITS - Chief Technology Office @Univeristy of Chicago.
+-  👩‍🎓 MS in Applied Data Science at Univeristy of Chicago.  
 
 ### Languages and Tools: 
 
