@@ -5,7 +5,7 @@
 
 ### Ongoing Endeavors:
 - 💡 Machine Learning Engineer at Blue AI Labs (Nevara).
-- 🔭 AI/ML Engineer at FA ITS - Chief Technology Office @Univeristy of Chicago.
+- 🔭 AI/ML Engineer at Chief Technology Office @Univeristy of Chicago.
 -  👩‍🎓 MS in Applied Data Science at Univeristy of Chicago.  
 
 ### Languages and Tools: 
