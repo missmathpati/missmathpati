@@ -94,6 +94,6 @@ https://missmathpati.github.io/
 
 ## 📫 Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/akanksha-a-mathpati/  
-- Email: akankshamathpati@uchicago.edu  
+- Email: akankshamathpati8@gmail.com  
 - Portfolio: https://missmathpati.github.io/
 
