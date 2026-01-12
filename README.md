@@ -8,8 +8,17 @@ AI Engineer and Applied Data Scientist building production-grade machine learnin
 ## 💼 Current Work
 - 🔭 Artificial Intelligence Engineer at Chief Technology Office, University of Chicago  
 - 💡 Machine Learning Engineer at Blue AI Labs (Nevara)  
-- 🎓 MS in Applied Data Science, University of Chicago  
+- 🎓 MS in Applied Data Science, University of Chicago
 
+---
+
+## 🏆 Accomplishments & Recognition
+- 🏆 Best in Show Award, MS Applied Data Science Capstone  
+  Industry Partner: HERE Technologies, University of Chicago
+- 🥇 Gold Medalist, B.Tech Computer Engineering, D. Y. Patil University (GPA: 9.99/10)
+- 📄 IEEE Scopus Indexed Research Publication  
+  “Dynamics of Cyberbullying: ML Detection Models and the Role of Engagement Metrics”
+- ©️ Copyright Holder, MedsXplore – Unlock Medicinal Knowledge (Government of India)
 ---
 
 ## 🧠 Tech Stack
@@ -73,14 +82,6 @@ AI-powered medicine identification platform using OCR and NLP to extract, normal
 📌 Full project portfolio available at:
 https://missmathpati.github.io/
 ---
-
-## 🏆 Accomplishments & Recognition
-- 🏆 Best in Show Award, MS Applied Data Science Capstone  
-  Industry Partner: HERE Technologies, University of Chicago
-- 🥇 Gold Medalist, B.Tech Computer Engineering, D. Y. Patil University (GPA: 9.99/10)
-- 📄 IEEE Scopus Indexed Research Publication  
-  “Dynamics of Cyberbullying: ML Detection Models and the Role of Engagement Metrics”
-- ©️ Copyright Holder, MedsXplore – Unlock Medicinal Knowledge (Government of India)
 
 ---
 
