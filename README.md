@@ -21,9 +21,6 @@ AI Engineer and Applied Data Scientist building production-grade machine learnin
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-
----
-
 ### Data, ML & Processing
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"></code>
@@ -32,17 +29,12 @@ AI Engineer and Applied Data Scientist building production-grade machine learnin
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/chatgpt/chatgpt.png"></code>
 
-
----
-
 ### Backend, APIs & Testing
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png"></code>
-
----
 
 ### Databases, Cloud & DevOps
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"></code>
@@ -55,7 +47,6 @@ AI Engineer and Applied Data Scientist building production-grade machine learnin
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"></code>
-
 
 ---
 
