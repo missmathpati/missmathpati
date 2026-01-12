@@ -1,114 +1,107 @@
-### 
 ![Banner](https://github.com/missmathpati/missmathpati/blob/main/Images/Github%20Image.png?raw=true)
-<br>
-### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Science enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
-### Ongoing Endeavors:
-- 🔭 AI/ML Engineer at Chief Technology Office @Univeristy of Chicago.
-- 💡 Machine Learning Engineer at Blue AI Labs (Nevara).
--  👩‍🎓 MS in Applied Data Science at Univeristy of Chicago.  
+## Hi, I’m Akanksha 👋  
+AI Engineer and Applied Data Scientist building production-grade machine learning systems, LLM-powered applications, and scalable AI pipelines with real-world impact.
 
-### Languages and Tools: 
+---
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<br>
+## 💼 Current Work
+- 🔭 Artificial Intelligence Engineer at Chief Technology Office, University of Chicago  
+- 💡 Machine Learning Engineer at Blue AI Labs (Nevara)  
+- 🎓 MS in Applied Data Science, University of Chicago  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+---
+
+## 🧠 Tech Stack
+
+### Languages & Core
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+---
+
+### Data, ML & Processing
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/chatgpt/chatgpt.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://github.com/github/explore/blob/main/topics/figma/figma.png"></code>
-
-### Major Projects I've Worked On:
-- 💻 Stackoverflow NLP Analysis: _Conducted NLP analysis of StackOverflow posts using PySpark NLP and Spark ML to derive insights into user interactions and post trends. Utilized big data processing techniques to efficiently handle 30 GB of data, achieving over 95% accuracy on 50 logistic regression models for NLP analysis of StackOverflow posts._
-- 📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in [14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus](https://ieeexplore.ieee.org/document/10463218).
-- ✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.
-_MedsXplore is an innovative web interface where users can access medicinal knowledge such as side effects, dosage, manufacturing information, and much more at their fingertips with just 2 easy steps; SCAN & UPLOAD. Provided with Multilingual support and audio feature to cater to a larger audience._ 🌐🔍
-- 📊 Data Insights Lab
-  _Cutting-edge web application that revolutionizes data analysis by providing a user-friendly platform for gaining valuable insights from datasets. Users can effortlessly upload datasets and perform machine learning tasks such as data pre-processing, classification, regression, and clustering without extensive coding skills._ 📉
-- 👩‍⚖️ LawGPT
-  _A comprehensive chat platform and app designed to provide users with instant access to information regarding Indian laws and regulations. Our AI-driven system ensures that users receive simplified explanations in plain language, making legal concepts easily understandable. With multilingual support and a simple interface, users can access legal information via text or voice assistance. Join us on GitHub to contribute to building a more informed society._
-
-### Past Endeavors:
-- 💪 Founder of RAIT ACM Women Chapter, which is part of the elite international ACM Organization. 👩
-- 🎖 Served as the Chairperson of RAIT ACM Women Chapter.
-- 📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in 14th International Conference on Cloud Computing, Data Science & 
-      Engineering (Confluence 2024) by IEEE indexed in Scopus.
-- ✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.🎓📊
-- 👨‍⚖️ Participated in Smart India Hackathon with my project LawGPT.
-- 🎤 Recognized as one of the top 1000 speakers in India in Super Speaker Season 2.🏆
 
 
-### 📫 Let's Connect!
-I'm always excited to collaborate on innovative projects and connect with like-minded individuals. Feel free to reach out to me through any of the channels below:
+---
 
-<p>
-    LinkedIn: <a href="https://www.linkedin.com/in/akanksha-a-mathpati/" target="_blank">Connect with me</a><br>
-    Email: <a href="mailto:akankshamathpati@uchicago.edu">akankshamathpati@uchicago.edu</a><br>
-    Portfolio: <a href="https://missmathpati.github.io/" target="_blank">https://missmathpati.github.io/</a>
-</p>
+### Backend, APIs & Testing
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png"></code>
 
+---
 
-<!--
-**missmathpati/missmathpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-I am a Data Analytics enthussiast who's passioante about learning ways to gather insights from data in order to make informed decision. 
-
-## Ongoing Endeavors:
-⚡ Capstone project in Machine Learning.
-🌱 Currently learning R language.
-🔭 Working on Data Insights Lab - an innovative project for data enthusiasts like me. 🚀💡
-
-## Major Projects I've Worked On:
-📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in 14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus.
-✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.
-_MedsXplore is an innovative web interface where users can access medicinal knowledge such as side effects, dosage, manufacturing information, and much more at their fingertips with just 2 easy steps; SCAN & UPLOAD. Provided with Multilingual support and audio feature to cater to a larger audience._ 🌐🔍🎶
-
-## Past Endeavors:
-💪 Founder RAIT ACM Women Chapter, which is part of the elite international ACM Organization. 👩
-🎖 Served as the Chairperson of RAIT ACM Women Chapter.
-📃 Published research paper on Dynamics of Cyberbullying: ML Detection Models and catalytic role of tweets engagement metrics on Twitter in 14th International Conference on Cloud Computing, Data Science & Engineering (Confluence 2024) by IEEE indexed in Scopus.
-✨ Copyrighted my project MedsXplore - Unlock Medicinal Insights.🎓📊
- 
-Languages worked with 
+### Databases, Cloud & DevOps
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png"></code>
 
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/chatgpt/chatgpt.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png"></code>
+## 🚀 Selected Projects
 
+### HERE Technologies – Map Freshness & POI Change Detection (Capstone)
+AI-driven change-detection framework built in collaboration with HERE Technologies to identify stale or inconsistent Points of Interest by comparing multi-source location data and API outputs. Designed feature-based classification and freshness scoring models to prioritize high-impact updates such as store closures and relocations, enabling scalable, automated map quality improvement.
 
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />-->
+### Ask-ADS (MS-ADS AI Assistant)
+LLM-powered conversational assistant for the MS in Applied Data Science program at the University of Chicago. Built using Retrieval-Augmented Generation (RAG) to answer curriculum, policy, and program-related queries by grounding responses in official documents, improving information accessibility and reducing manual administrative effort.
 
+### LawGPT
+LLM-powered legal assistant simplifying Indian legal language using NLP, multilingual support, and voice interfaces to make legal information more accessible.
 
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+### Network Traffic Anomaly Detection
+Built supervised and unsupervised ML pipelines (Logistic Regression, Random Forest, Isolation Forest) to detect anomalous network behavior and potential cyberattacks.
 
-<!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />-->
+### StackOverflow NLP Analysis
+Large-scale NLP analysis on 30GB of StackOverflow data using PySpark NLP and Spark ML to study engagement patterns, content trends, and community dynamics.
 
+### MedsXplore (Copyrighted)
+AI-powered medicine identification platform using OCR and NLP to extract, normalize, and present multilingual drug information including composition, side effects, and usage.
 
-<!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />-->
+📌 Full project portfolio available at:
+https://missmathpati.github.io/
+---
 
-<!--<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />-->
+## 🏆 Accomplishments & Recognition
+- 🏆 Best in Show Award, MS Applied Data Science Capstone  
+  Industry Partner: HERE Technologies, University of Chicago
+- 🥇 Gold Medalist, B.Tech Computer Engineering, D. Y. Patil University (GPA: 9.99/10)
+- 📄 IEEE Scopus Indexed Research Publication  
+  “Dynamics of Cyberbullying: ML Detection Models and the Role of Engagement Metrics”
+- ©️ Copyright Holder, MedsXplore – Unlock Medicinal Knowledge (Government of India)
 
-<!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>-->
+---
 
+## 🌱 Leadership & Service
+- Founder and Chairperson, RAIT ACM Women Chapter  
+- Top 1000 Speaker, Super Speaker Season 2 (India)  
+- Smart India Hackathon (LawGPT)
 
+---
 
-
+## 📫 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/akanksha-a-mathpati/  
+- Email: akankshamathpati@uchicago.edu  
+- Portfolio: https://missmathpati.github.io/
 
