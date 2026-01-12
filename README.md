@@ -4,8 +4,8 @@
 ### Hello! 👋I'm passionate about uncovering valuable insights from data to drive informed decision-making. As a Data Science enthusiast, I thrive on exploring new techniques and methodologies to extract meaningful patterns from complex datasets.
 
 ### Ongoing Endeavors:
-- 💡 Machine Learning Engineer at Blue AI Labs (Nevara).
 - 🔭 AI/ML Engineer at Chief Technology Office @Univeristy of Chicago.
+- 💡 Machine Learning Engineer at Blue AI Labs (Nevara).
 -  👩‍🎓 MS in Applied Data Science at Univeristy of Chicago.  
 
 ### Languages and Tools: 
